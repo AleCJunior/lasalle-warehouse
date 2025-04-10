@@ -24,7 +24,7 @@ public class login_validator {
 
         // Please create a logic to validate the login, based on those 2 strings.
         // Do not forget to comment where the two possible results are (valid and invalid login)
-        // So i can addapt the code with JavaFX
+        // So I can adapt the code with JavaFX
 
         // ...
 

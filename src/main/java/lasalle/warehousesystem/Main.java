@@ -20,5 +20,8 @@ public class Main extends Application {
         primaryStage.setTitle("Warehouse System - Login");
         primaryStage.setScene(scene);
         primaryStage.show();
+        // dynamic frame size:
+        // width 574
+        // height 320
     }
 }
